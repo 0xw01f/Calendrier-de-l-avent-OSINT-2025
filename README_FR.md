@@ -57,8 +57,6 @@ Pour les enquêtes OSINT, cela élimine le pistage, les bulles de filtrage et le
 
 **Ressources :**
 - Instances publiques : https://searx.space/
-- Documentation : https://docs.searx.ng/
-
 ---
 
 ### Jour 2
@@ -118,8 +116,8 @@ Au lieu de regarder un site web isolé, vous pouvez découvrir des réseaux enti
 
 **Ressources :**
 - Site Web : https://host.io/
-- Documentation API : https://host.io/docs
-- Cas d'usage : Analyse de réseau, enquête sur la fraude, recherche de domaines
+
+Cas d'usage : Analyse de réseau, enquête sur la fraude, recherche de domaines
 
 ---
 
@@ -139,8 +137,6 @@ Cet outil de méta-archivage augmente considérablement vos chances de récupér
 
 **Ressources :**
 - Extension Navigateur : https://github.com/dessant/web-archives
-- Chrome Web Store : Disponible pour les navigateurs Chrome/Chromium
-- Firefox Add-ons : Disponible pour Firefox
 
 ---
 
@@ -162,7 +158,7 @@ Donut Browser est conçu spécifiquement pour gérer plusieurs profils isolés. 
 - Donut Browser : https://donut.surf/
 - Moteur Camoufox : https://camoufox.com/
 - Note : Actuellement disponible sur Linux & Mac, version Windows à venir
-- ⚠️ Important : Donut/Camoufox ne masquent PAS votre adresse IP - à utiliser avec un VPN ou un proxy
+- ⚠️ Important : Donut/Camoufox ne masquent PAS votre adresse IP par défaut - à utiliser avec un VPN ou un proxy
 
 ---
 
@@ -292,7 +288,7 @@ Couvrir tout le spectre nécessite l'accès à plusieurs bibliothèques publicit
 - Google : https://adstransparency.google.com/
 - Meta : https://www.facebook.com/ads/library/
 - LinkedIn : https://www.linkedin.com/ad-library/
-- Microsoft : https://about.ads.microsoft.com/en-us/resources/ad-library
+- Microsoft : https://adlibrary.ads.microsoft.com/
 - TikTok : https://library.tiktok.com/
 - Reddit : https://ads.reddit.com/inspiration/
 
@@ -314,8 +310,7 @@ Contrairement au tracking AIS qui peut être usurpé, Equasis fournit des détai
 
 **Ressources :**
 - Equasis : https://www.equasis.org/
-- Alternative Avion : https://globe.adsbexchange.com/ (outil incroyable pour les avions)
-- Note : Essentiel pour vérifier la conformité et tracer l'histoire réelle d'un navire au-delà de sa position actuelle
+- Alternative Avion : https://www.planespotters.net/ (outil incroyable pour les avions)
 
 ---
 
@@ -334,7 +329,7 @@ C'est l'outil pivot par excellence pour élargir votre surface d'attaque - déco
 - 🕵️ **Découverte multi-plateformes** : Un utilisateur peut être prudent sur LinkedIn mais réutiliser son pseudo historique sur un forum douteux ou un site de rencontre
 
 **Ressources :**
-- RhinoUserChecker : https://osintisnotacrime.com/tools/rhino-user-checker
+- RhinoUserChecker : https://github.com/degun-osint/RhinoUserChecker
 - Hub OSINT Is Not A Crime : https://osintisnotacrime.com/ (avec d'autres outils intéressants à tester)
 - Alternative : WhatsMyName.app pour comparaison
 - Note : Essentiel pour découvrir des identités alternatives et élargir le périmètre d'enquête
@@ -361,7 +356,7 @@ Ces portails gouvernementaux officiels fournissent la "matière première" de l'
 - Union Européenne : https://data.europa.eu/
 - États-Unis : https://www.data.gov/
 - Russie : https://data.gov.ru/
-- Exemple d'Application : Taipower Poles (utilise l'Open Data de Taïwan pour géolocaliser les poteaux électriques) - https://pole.osint.tw/
+- Exemple d'Application : Taipower Poles (utilise l'Open Data de Taïwan pour géolocaliser les poteaux électriques) - https://0d.lv/toolbox/taipower 
 
 ---
 
@@ -455,7 +450,7 @@ Le flux traditionnel est fragmenté : D'abord, vous extrayez des données d'Over
 
 **Ressources :**
 - App Earthkit : https://earthkit.app/
-- Code Source : https://github.com/earthkit/earthkit
+- Code Source : https://github.com/JettChenT/earthkit
 - Overpass Turbo : https://overpass-turbo.eu/
 - Note : Plateforme open source qui fluidifie le workflow d'investigation géographique
 
@@ -564,26 +559,26 @@ Pour ce 24 décembre, voici votre "Pack de Démarrage" : les ressources pour vou
 
 📚 **1. L'Encyclopédie**
 Si vous ne devez garder qu'un seul favori, c'est celui-ci. Probablement la collection la plus connue du milieu. Elle répertorie de nombreux outils classés par catégorie (Pseudo, Maps, Email, Transport...).
-🔗 **The Ultimate OSINT Collection :** https://lnkd.in/eATTMf72
+🔗 **The Ultimate OSINT Collection :** https://start.me/p/DPYPMz/the-ultimate-osint-collection
 
 🎓 **2. La Formation**
 Pour partir sur des bases saines, rien ne vaut un cours structuré. L'association OSINT FR a créé un parcours d'initiation gratuit et complet, idéal pour acquérir la méthodologie avant de se lancer.
-🔗 **MOOC OSINT FR :** https://lnkd.in/ekYf99Ce
+🔗 **MOOC OSINT FR :** https://mooc.osintfr.com/course/view.php?id=4
 
 🎮 **3. La Pratique**
 Ne restez pas passifs. Ces plateformes de CTF (Capture The Flag) proposent des défis concrets (géolocalisation, imagerie, recherche de personnes). C'est le meilleur moyen d'apprendre par l'erreur.
 - **GeoDetective** : https://geodetective.io/
-- **Challenge OSINT FR** : https://lnkd.in/eH2BhaJm
-- **Osintopia** : https://lnkd.in/eP4Spuj6
-- **Bellingcat** : https://lnkd.in/eRtKHNzB
-- **OSINT4Fun** : https://lnkd.in/eH5yWsVQ
+- **Challenge OSINT FR** : https://ctf.challenge-osint.fr/
+- **Osintopia** : https://challenges.osintopia.fr/
+- **Bellingcat** : https://challenge.bellingcat.com/
+- **OSINT4Fun** : https://fr.osint4fun.eu/challenges/
 
 🤝 **4. La Communauté**
 L'OSINT est une discipline solitaire qui se gagne en équipe. La communauté francophone est incroyablement active et bienveillante. Rejoignez ces serveurs pour poser des questions ou participer à des événements.
-- **OSINT FR** : https://lnkd.in/e6eQ7QvM
-- **Projet Fox** : https://lnkd.in/eVSNw4xz
-- **Oscar Zulu** : https://lnkd.in/e74acFrg
-- **Hack'Olyte** : https://lnkd.in/eR3ypP-g
+- **OSINT FR** : https://discord.com/invite/dWY9sWFKYD
+- **Projet Fox** : https://discord.com/invite/projet-fox-775480337727225879
+- **Oscar Zulu** : https://discord.com/invite/oscar-zulu
+- **Hack'Olyte** : https://discord.com/invite/dbNcPStqb7
 
 ---
 
