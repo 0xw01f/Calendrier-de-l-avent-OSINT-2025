@@ -57,8 +57,6 @@ For OSINT investigations, this eliminates tracking, filter bubbles, and personal
 
 **Resources:**
 - Public instances: https://searx.space/
-- Documentation: https://docs.searx.ng/
-
 ---
 
 ### Day 2
@@ -118,7 +116,6 @@ Instead of looking at an isolated website, you can discover entire networks of i
 
 **Resources:**
 - Website: https://host.io/
-- API Documentation: https://host.io/docs
 - Use Cases: Network analysis, fraud investigation, domain research
 
 ---
@@ -139,8 +136,6 @@ This meta-archiving tool dramatically increases your chances of recovering disap
 
 **Resources:**
 - Browser Extension: https://github.com/dessant/web-archives
-- Chrome Web Store: Available for Chrome/Chromium browsers
-- Firefox Add-ons: Available for Firefox
 
 ---
 
@@ -162,7 +157,7 @@ Donut Browser is designed specifically to manage multiple isolated profiles. Its
 - Donut Browser: https://donut.surf/
 - Camoufox Engine: https://camoufox.com/
 - Note: Currently available on Linux & Mac, Windows version coming soon
-- ⚠️ Important: Donut/Camoufox do NOT mask your IP address - use with VPN or proxy
+- ⚠️ Important: Donut/Camoufox do NOT mask your IP address by default - use with VPN or proxy
 
 ---
 
@@ -292,7 +287,7 @@ Covering the full spectrum requires access to multiple ad libraries across diffe
 - Google: https://adstransparency.google.com/
 - Meta: https://www.facebook.com/ads/library/
 - LinkedIn: https://www.linkedin.com/ad-library/
-- Microsoft: https://about.ads.microsoft.com/en-us/resources/ad-library
+- Microsoft: https://adlibrary.ads.microsoft.com/
 - TikTok: https://library.tiktok.com/
 - Reddit: https://ads.reddit.com/inspiration/
 
@@ -314,7 +309,7 @@ Unlike AIS tracking that can be spoofed, Equasis provides immutable technical de
 
 **Resources:**
 - Equasis: https://www.equasis.org/
-- Aircraft Alternative: https://globe.adsbexchange.com/ (incredible tool for planes)
+- Aircraft Alternative: https://www.planespotters.net/ (incredible tool for planes)
 - Note: Essential for verifying compliance and tracing the real history of a vessel beyond its current position
 
 ---
@@ -334,7 +329,7 @@ This is the quintessential pivot tool for expanding your attack surface - discov
 - 🕵️ **Cross-platform discovery**: A user may be cautious on LinkedIn but reuse their historical username on a sketchy forum or dating site
 
 **Resources:**
-- RhinoUserChecker: https://osintisnotacrime.com/tools/rhino-user-checker
+- RhinoUserChecker: https://github.com/degun-osint/RhinoUserChecker
 - OSINT Is Not A Crime Hub: https://osintisnotacrime.com/ (with other interesting tools to try)
 - Alternative: WhatsMyName.app for comparison
 - Note: Essential for discovering alternate identities and expanding investigation scope
@@ -361,7 +356,7 @@ These official government portals provide the "raw material" of investigation - 
 - European Union: https://data.europa.eu/
 - United States: https://www.data.gov/
 - Russia: https://data.gov.ru/
-- Example Application: Taipower Poles (uses Taiwan Open Data to geolocate power poles) - https://pole.osint.tw/
+- Example Application: Taipower Poles (uses Taiwan Open Data to geolocate power poles) - https://0d.lv/toolbox/taipower 
 
 ---
 
@@ -455,7 +450,7 @@ The traditional workflow is fragmented: First, you extract data from Overpass Tu
 
 **Resources:**
 - Earthkit App: https://earthkit.app/
-- Source Code: https://github.com/earthkit/earthkit
+- Source Code: https://github.com/JettChenT/earthkit
 - Overpass Turbo: https://overpass-turbo.eu/
 - Note: Open source platform that streamlines geographic investigation workflow
 
@@ -550,16 +545,45 @@ These tools break the "Freemium" model by providing access to uncensored data an
 ---
 
 ### Day 24
-**Tool/Technique:** *To be revealed*
+**Tool/Technique:** The Starter Pack (Training & Community)
 
-**Description:** *Placeholder for description*
+**Description:** The best tool is you.
 
-**Key Features:**
-- *Feature 1*
-- *Feature 2*
-- *Feature 3*
+For 23 days, we have seen specific tools and techniques. But OSINT is a muscle: you have to train it and know where to look when you get stuck.
 
-**Resources:**
-- Link: *TBD*
-- Documentation: *TBD*
+I would also like to thank Florian P and everyone who helped me create this advent calendar :)
+
+For this December 24th, here is your "Starter Pack": resources to equip yourself, get trained, and never stay alone.
+
+**Essential Resources:**
+
+📚 **1. The Encyclopedia**
+If you only keep one bookmark, this is it. Probably the most well-known collection in the field. It lists numerous tools classified by category (Username, Maps, Email, Transport...).
+🔗 **The Ultimate OSINT Collection :** https://start.me/p/DPYPMz/the-ultimate-osint-collection
+
+🎓 **2. The Training**
+To start on solid ground, nothing beats a structured course. The OSINT FR association has created a free and comprehensive initiation path (in French), ideal for acquiring methodology before starting out.
+🔗 **MOOC OSINT FR :** https://mooc.osintfr.com/course/view.php?id=4
+
+🎮 **3. The Practice**
+Don't remain passive. These CTF (Capture The Flag) platforms offer concrete challenges (geolocation, imagery, people search). It is the best way to learn through trial and error.
+- **GeoDetective** : https://geodetective.io/
+- **Challenge OSINT FR** : https://ctf.challenge-osint.fr/
+- **Osintopia** : https://challenges.osintopia.fr/
+- **Bellingcat** : https://challenge.bellingcat.com/
+- **OSINT4Fun** : https://fr.osint4fun.eu/challenges/
+
+🤝 **4. The Community**
+OSINT is a solitary discipline that is won as a team. The Francophone community is incredibly active and welcoming. Join these servers to ask questions or participate in events.
+- **OSINT FR** : https://discord.com/invite/dWY9sWFKYD
+- **Projet Fox** : https://discord.com/invite/projet-fox-775480337727225879
+- **Oscar Zulu** : https://discord.com/invite/oscar-zulu
+- **Hack'Olyte** : https://discord.com/invite/dbNcPStqb7
+
+---
+
+**Closing words:**
+Thank you for following this calendar. Now, close the tutorials, open the maps, and start investigating.
+
+**Happy Holidays to all! 🎄🕵️‍♂️**
 
