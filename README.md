@@ -29,14 +29,14 @@ Please select your preferred language to access the calendar content:
 
 ## 📅 What is this? / Qu'est-ce que c'est ?
 
-**🇬🇧 English**
 This project is an educational advent calendar for OSINT enthusiasts, journalists, and investigators. From December 1st to December 24th, 2025, a new tool or technique is revealed daily.
 
 * **Tools:** Free and open-source software.
 * **Techniques:** Methodologies for digital investigation.
 * **Resources:** Databases, maps, and specialized search engines.
 
-**🇫🇷 Français**
+///
+
 Ce projet est un calendrier de l'avent éducatif pour les passionnés d'OSINT, les journalistes et les enquêteurs. Du 1er au 24 décembre 2025, un nouvel outil ou une nouvelle technique est révélé chaque jour.
 
 * **Outils :** Logiciels gratuits et open source.
