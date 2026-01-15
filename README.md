@@ -35,7 +35,7 @@ This project is an educational advent calendar for OSINT enthusiasts, journalist
 * **Techniques:** Methodologies for digital investigation.
 * **Resources:** Databases, maps, and specialized search engines.
 
-///
+
 
 Ce projet est un calendrier de l'avent éducatif pour les passionnés d'OSINT, les journalistes et les enquêteurs. Du 1er au 24 décembre 2025, un nouvel outil ou une nouvelle technique est révélé chaque jour.
 
@@ -43,18 +43,6 @@ Ce projet est un calendrier de l'avent éducatif pour les passionnés d'OSINT, l
 * **Techniques :** Méthodologies d'enquête numérique.
 * **Ressources :** Bases de données, cartographie et moteurs de recherche spécialisés.
 
----
-
-## 🚀 Quick Preview / Aperçu Rapide
-
-| Day / Jour | Category / Catégorie | Tool / Outil |
-| :---: | :--- | :--- |
-| **01** | Search Engines | Searx |
-| **06** | OpSec | Donut Browser |
-| **13** | Maritime | Equasis |
-| **18** | Conflict Analysis | NASA FIRMS |
-| **23** | Tracking | ADS-B & GFW |
-| **...** | ... | ... |
 
 ---
 
